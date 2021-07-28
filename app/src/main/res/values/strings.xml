@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BussinessCard</string>
+    <string name="label_bussiness_card">Cartão de visita</string>
+    <string name="Fab">botao do canto da tela</string>
+    <string name="nome_pessoal">Ayrton de Andrade Costa</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="empresa">Empresa</string>
+    <string name="novo_cartao">Novo Cartão</string>
+    <string name="nome_hint">Nome</string>
+    <string name="cor">Cor</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="label_mostrar_sucesso">\"Cartão cadastrado com sucesso</string>
+    <string name="label_share">Compartilhar</string>
+</resources>
